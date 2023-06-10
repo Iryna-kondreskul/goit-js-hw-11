@@ -1,0 +1,1 @@
+{"mappings":"AACYA,SAASC,cAAc,eAClBD,SAASC,cAAc,UACzBD,SAASC,cAAc","sources":["src/index.js"],"sourcesContent":["export const refs = {\n    formEl: document.querySelector('search-form'),\n    btnSubmitEl: document.querySelector('submit'),\n    galleryEl: document.querySelector('gallery'),\n}"],"names":["document","querySelector"],"version":3,"file":"index.72da8550.js.map"}
